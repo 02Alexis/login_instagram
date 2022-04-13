@@ -29,7 +29,7 @@ a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #fff;
+    background-color: #ffff;
     border: 1px solid #e6e6e6;
     border-radius: 1px;
     margin: 0 0 10px;
@@ -73,6 +73,7 @@ label{
     transition: translateY(10px);
     line-height: 6px;
     transition: all ease-out 0.1s;
+    font-size: 14px;
     color: #999;
     padding-top: 6px;
 }
